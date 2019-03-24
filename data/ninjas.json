@@ -1,0 +1,31 @@
+[{
+    "name": "Ana",
+    "belt": "green",
+    "rate": 50,
+    "available": true,
+    "thumb": "/content/img/gmail.svg"
+}, {
+    "name": "Bela",
+    "belt": "yellow",
+    "rate": 30,
+    "available": true,
+    "thumb": "/content/img/html.svg"
+}, {
+    "name": "Ray",
+    "belt": "orange",
+    "rate": 100,
+    "available": true,
+    "thumb": "/content/img/javascript.svg"
+}, {
+    "name": "Now",
+    "belt": "black",
+    "rate": 59,
+    "available": true,
+    "thumb": "/content/img/visual.svg"
+}, {
+    "name": "Day",
+    "belt": "red",
+    "rate": 28,
+    "available": false,
+    "thumb": "/content/img/linux.svg"
+}]
